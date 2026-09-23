@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / React
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-error.log*
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Database / local data
+*.db
+*.sqlite3
+data/raw/
+data/processed/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
