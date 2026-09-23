@@ -1,0 +1,1 @@
+"""Idle resource detection with configurable thresholds (FR-04)."""
