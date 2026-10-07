@@ -1,0 +1,7 @@
+resource_id,resource_type,region,usage_hours,cost,utilization
+i-0abc123def456,EC2 Instance,us-east-1,720,145.00,0.023
+i-0xyz789ghi012,EC2 Instance,us-east-1,720,89.00,0.15
+vol-0pqr456stu789,EBS Volume,us-west-2,720,45.00,0.0
+db-0mno123pqr456,RDS Instance,us-east-1,720,200.00,0.45
+i-0def789ghi012,EC2 Instance,us-west-2,720,120.00,0.035
+vol-0abc123def456,EBS Volume,us-east-1,720,30.00,0.02
